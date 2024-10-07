@@ -42,5 +42,8 @@
     "mocha": "10.7.3",
     "stylelint": "16.9.0",
     "stylelint-stylus": "1.0.0"
+  },
+  "dependencies": {
+    "hexo-theme-next": "file:"
   }
 }
